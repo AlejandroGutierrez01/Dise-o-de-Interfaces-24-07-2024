@@ -1,0 +1,42 @@
+.p_menu{
+  margin: 10px;
+  font-size: 25px;
+  color: #fff;
+}
+.div_menu{
+  background-color: blueviolet;
+  display: flex;
+  text-align: right;
+  justify-content: right;
+}
+.div_publi{
+  display: flex;
+  flex-direction: row;
+  background-color: azure;
+}
+.img_publi{
+  height: 500px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.p_publi{
+  margin-left: 10px;
+  font-size: 25px;
+  margin-top: 10px;
+}
+.div_mapa{
+  text-align: center;
+}
+.mapa{
+  margin-top:10px ;
+  height: 500px;
+  width: 800px;
+  border-radius: 20px;
+}
+.div_footer{
+  display: flex;
+  text-align: center;
+}
+
+
+
